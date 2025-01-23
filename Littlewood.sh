@@ -45,4 +45,5 @@ $GPTOKEYB "Littlewood.exe" -c "./littlewood.gptk" &
 box64 wine64 "./data/Littlewood.exe"
 
 # Kill processes
+wineserver -k
 pm_finish
