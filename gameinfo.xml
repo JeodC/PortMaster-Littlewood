@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gamelist>
+	<game>
+		<path>./Littlewood.sh</path>
+		<name>Littlewood</name>
+		<desc>The world has already been saved. Now it's time to rebuild your town, learn new hobbies, and forge lifelong friendships in this peaceful and relaxing RPG.</desc>
+		<image>./littlewood/cover.png</image>
+		<releasedate>20200804</releasedate>
+		<developer>Sean Young</developer>
+		<genre>Adventure, Casual, Indie, RPG, Simulation</genre>
+	</game>
+</gamelist>

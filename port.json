@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "name": "littlewood.zip",
+  "items": [
+    "Littlewood.sh",
+    "littlewood"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Littlewood",
+    "porter": [
+      "Jeod"
+    ],
+    "desc": "The world has already been saved. Now it's time to rebuild your town, learn new hobbies, and forge lifelong friendships in this peaceful and relaxing RPG.",
+    "desc_md": null,
+    "inst": "Buy the game on GOG and copy all the data to `littlewood/data`.",
+    "inst_md": null,
+    "genres": [
+	  "adventure"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}
